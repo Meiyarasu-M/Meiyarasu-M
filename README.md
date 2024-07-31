@@ -1,17 +1,7 @@
 <h1 align="center">Hi there, I'm Meiyarasu 👋</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver</h3>
 
-<p align="center">
-  <a href="https://github.com/Meiyarasu-M">
-    <img src="https://img.shields.io/github/followers/Meiyarasu-M?label=Follow&style=social" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/Meiyarasu-M">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:meiyarasu.mk@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+
 
 ---
 
