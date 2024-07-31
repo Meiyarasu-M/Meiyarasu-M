@@ -60,21 +60,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%E2%9C%94%EF%B8%8F-green" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%E2%9C%94%EF%B8%8F-blue" alt="CSS3">
-  <img src="https://img.shields.io/badge/ReactJS-%E2%9C%94%EF%B8%8F-blueviolet" alt="ReactJS">
-  <img src="https://img.shields.io/badge/Node.js-%E2%9C%94%EF%B8%8F-green" alt="Node.js">
-</p>
-
-<p align="center">
-  <a href="https://github.com/Meiyarasu-M">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Meiyarasu-M&theme=dracula" alt="Activity Graph">
-  </a>
-</p>
-
----
-
 Feel free to explore my repositories and contributions!
 
 ---
